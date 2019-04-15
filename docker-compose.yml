@@ -1,0 +1,7 @@
+version: '3'
+services:
+  rosvnc:
+    image: wxwilcke/vnc-ros-melodic-full
+    tty: true
+    ports:
+         "6080:80"
