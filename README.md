@@ -17,7 +17,7 @@ Browse http://127.0.0.1:6080/
 Alternatively, run the supplied docker-compose config
 
 ```
-docker-compose upo
+docker-compose up
 ```
 
 Connect with VNC Viewer and protect by VNC Password
